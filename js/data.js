@@ -12,3 +12,10 @@ header.addEventListener("mouseout",function(){
         header.classList.remove("main");
     }
 });
+
+
+
+$('.parallax-window').parallax({imageSrc: '/img/45464645-min.png'});
+
+
+
