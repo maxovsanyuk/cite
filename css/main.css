@@ -45,7 +45,6 @@
     transition: .8s; }
     .main a:hover {
       color: #f0bc56e1;
-      transform: rotateX(360deg);
       transition: .6s ease-out; }
 
 .content {

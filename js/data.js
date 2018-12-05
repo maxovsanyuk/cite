@@ -15,7 +15,7 @@ header.addEventListener("mouseout",function(){
 
 
 
-$('.parallax-window').parallax({imageSrc: '/img/45464645-min.png'});
+
 
 
 
